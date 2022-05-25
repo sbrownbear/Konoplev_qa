@@ -1,4 +1,4 @@
-# Мобильное тестирование.
+# Мобильное тестирование
 
 __*Чек-листы тестирования мобильных приложений:*__ [link_1](https://habr.com/ru/post/534190/)
 [link_2](https://software-testing.ru/images/stories/library/checklist-mobile-app-testen.pdf)
